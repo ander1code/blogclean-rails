@@ -5,7 +5,8 @@
 ![Frameworks](https://img.shields.io/badge/Ruby%20on%20Rails-red?style=flat&logo=ruby&logoColor=white) ![Frameworks](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)  
 ![Database](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white)  
 ![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/blogclean-rails?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/blogclean-rails?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/blogclean-rails?color=black&logo=open-source-initiative) 
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/blogclean-rails?color=yellow&logo=github) 
 
 ## 1. Description
 **BlogClean-Rails** is a prototype blog application developed using **Ruby on Rails** with a **PostgreSQL database**. The design is based on the “Blog Post” template from **StartBootstrap** for a clean and responsive layout.  
